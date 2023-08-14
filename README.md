@@ -6,7 +6,7 @@ team and also learning laravel functionalities it seems as small project but it 
 
 ## How to run the project on your machine
 1. first clone this repo <br> 
-    . `https://github.com/zakariae111/note_app.git`
+    . `clone https://github.com/zakariae111/note_app.git`
 2. run composer install <br>
    . `composer install`
 3. then copy the .env.exemple to .env <br>
