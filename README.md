@@ -18,4 +18,8 @@ team and also learning laravel functionalities it seems as small project but it 
 And then configure the database info in the .env file.
 
 ## Contrebution part:
+
 ### What you have to de to contrebute in this project:
+
+1- fork this project:
+2- create your branch
